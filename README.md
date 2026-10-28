@@ -2,14 +2,19 @@
 <h3 align="center">A passionate software developer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/070/115/160/non_2x/young-boy-coding-on-a-laptop-with-multiple-screens-vector.jpg">
 
-<p align="left"> <img
+
+ 
+
+ 
+
+<p align="right"> <img
   src="https://komarev.com/ghpvc/?username=mr-devan-7650&label=Profile%20views&color=0e75b6&style=flat"
   alt="Profile views"
 />   </p>
 
 - 🔭 I’m currently working on **E-com Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend Series**
 
 - 👯 I’m looking to collaborate on **Frontend dev project**
 
